@@ -1,5 +1,8 @@
 # Calculator_app :-
 
+![Screenshot (13)](https://github.com/nam-dpatil/Calculator_app/assets/119349972/13306591-e959-4461-a2d7-d586e9408011)
+
+
   The Swing Calculator Application is a simple yet powerful tool designed to perform basic arithmetic calculations with a user-friendly graphical interface. This calculator enables users to perform addition, subtraction, multiplication, and division operations on numeric values. 
 
 Key Features:-
